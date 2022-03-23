@@ -1,3 +1,10 @@
+[PipeDream 这个思想已被 Facebook 团队的 PorTorch 框架用在计算图 fw+bw 同步中](https://pytorch.org/docs/stable/pipeline.html)<br>
+
+
+[PipeDream 被微软用在框架计算图分布式情形下 Device Placement](https://papers.nips.cc/paper/2020/file/b14680dec683e744ada1f2fe08614086-Paper.pdf)<br>
+[Device Placement 代码](https://github.com/msr-fiddle/dnn-partitioning#:~:text=Efficient%20Algorithms%20for%20Device%20Placement%20of%20DNN%20Graph,3%20Latency%20minimization.%20...%204%20Legal%20notices.%20)
+
+
 PyTorch 的 PipeDream <br>
 https://pytorch.org/docs/stable/pipeline.html
 
