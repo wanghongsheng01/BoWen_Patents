@@ -20,3 +20,11 @@ batch = 5 第五批次数据进入系统的时间点：第 1 批数据流过反�
 
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/31394900/159651832-9bfa37ce-0886-4a68-a055-d4c0b213a180.png">
 
+
+![image](https://user-images.githubusercontent.com/31394900/159724663-be7382b5-a2a5-457d-8400-63dbae09bfdb.png)
+
+
+上图论文实现的是 device placement (device 放置)
+博文现在写的是 register/memory palcement.
+
+两者共同点都是解决计算图fw+bw 过程 Tensor 生产和消费过程分布式放置的流水系统。
